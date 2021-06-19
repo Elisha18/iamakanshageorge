@@ -32,7 +32,7 @@ const Header = () => {
         <TopMenu listOfLinks={listOfLinks} />
         <div className="">
           <a
-            href="https://paulzakharovmnt.github.io/portfolio-website/"
+            href="https://elisha18.github.io/iamakanshageorge/"
             className="top-menu-link nav_logo"
           >
             AG
