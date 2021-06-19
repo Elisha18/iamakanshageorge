@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/iamakanshageorge/static/css/main.e973e05e.chunk.css",
+    "main.js": "/iamakanshageorge/static/js/main.1a8142d8.chunk.js",
+    "main.js.map": "/iamakanshageorge/static/js/main.1a8142d8.chunk.js.map",
+    "runtime-main.js": "/iamakanshageorge/static/js/runtime-main.96387ebd.js",
+    "runtime-main.js.map": "/iamakanshageorge/static/js/runtime-main.96387ebd.js.map",
+    "static/js/2.36c2b881.chunk.js": "/iamakanshageorge/static/js/2.36c2b881.chunk.js",
+    "static/js/2.36c2b881.chunk.js.map": "/iamakanshageorge/static/js/2.36c2b881.chunk.js.map",
+    "static/js/3.f0e2516e.chunk.js": "/iamakanshageorge/static/js/3.f0e2516e.chunk.js",
+    "static/js/3.f0e2516e.chunk.js.map": "/iamakanshageorge/static/js/3.f0e2516e.chunk.js.map",
+    "index.html": "/iamakanshageorge/index.html",
+    "static/css/main.e973e05e.chunk.css.map": "/iamakanshageorge/static/css/main.e973e05e.chunk.css.map",
+    "static/js/2.36c2b881.chunk.js.LICENSE.txt": "/iamakanshageorge/static/js/2.36c2b881.chunk.js.LICENSE.txt",
+    "static/media/edkentmediapage.5912c1c6.png": "/iamakanshageorge/static/media/edkentmediapage.5912c1c6.png",
+    "static/media/medicalinventory.d62a27b4.jpg": "/iamakanshageorge/static/media/medicalinventory.d62a27b4.jpg",
+    "static/media/newsfeed.c79bda19.png": "/iamakanshageorge/static/media/newsfeed.c79bda19.png",
+    "static/media/ozoprop.ac43dea4.png": "/iamakanshageorge/static/media/ozoprop.ac43dea4.png",
+    "static/media/portfolioimage.80e57b3b.png": "/iamakanshageorge/static/media/portfolioimage.80e57b3b.png",
+    "static/media/profilepic.08633986.jpg": "/iamakanshageorge/static/media/profilepic.08633986.jpg",
+    "static/media/ucertify.481638d1.png": "/iamakanshageorge/static/media/ucertify.481638d1.png",
+    "static/media/videorental.0f1a8d75.png": "/iamakanshageorge/static/media/videorental.0f1a8d75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96387ebd.js",
+    "static/js/2.36c2b881.chunk.js",
+    "static/css/main.e973e05e.chunk.css",
+    "static/js/main.1a8142d8.chunk.js"
+  ]
+}
