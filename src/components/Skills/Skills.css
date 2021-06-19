@@ -1,0 +1,54 @@
+.skills_container {
+  row-gap: 2rem;
+}
+
+.skills_name {
+  color: #fff;
+}
+.skills_number {
+  color: #fff;
+}
+
+.skills_subtitle {
+  font-size: var(--h3-font-size);
+  color: #fff;
+  margin-bottom: var(--mb-2);
+}
+
+.skills_data {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 var(--mb-2);
+  margin-bottom: var(--mb-4);
+}
+
+.skills_name {
+  text-transform: uppercase;
+}
+
+.skills_bar {
+  position: absolute;
+  bottom: -0.75rem;
+  height: 0.25rem;
+  background-color: #1fe8b6;
+}
+
+.skills_html {
+  width: 90%;
+}
+.skills_js {
+  width: 90%;
+}
+.skills_react {
+  width: 80%;
+}
+.skills_node {
+  width: 50%;
+}
+.skills_php{
+  width:60%;
+}
+.skills_jest{
+  width:70%;
+}
