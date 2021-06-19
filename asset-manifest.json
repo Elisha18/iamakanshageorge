@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iamakanshageorge/static/css/main.e973e05e.chunk.css",
-    "main.js": "/iamakanshageorge/static/js/main.1a8142d8.chunk.js",
-    "main.js.map": "/iamakanshageorge/static/js/main.1a8142d8.chunk.js.map",
+    "main.js": "/iamakanshageorge/static/js/main.dde53599.chunk.js",
+    "main.js.map": "/iamakanshageorge/static/js/main.dde53599.chunk.js.map",
     "runtime-main.js": "/iamakanshageorge/static/js/runtime-main.96387ebd.js",
     "runtime-main.js.map": "/iamakanshageorge/static/js/runtime-main.96387ebd.js.map",
     "static/js/2.36c2b881.chunk.js": "/iamakanshageorge/static/js/2.36c2b881.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.96387ebd.js",
     "static/js/2.36c2b881.chunk.js",
     "static/css/main.e973e05e.chunk.css",
-    "static/js/main.1a8142d8.chunk.js"
+    "static/js/main.dde53599.chunk.js"
   ]
 }
