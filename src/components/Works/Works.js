@@ -85,7 +85,7 @@ const Works = () => {
                   {" "}
                   Created a Testcase Management Tool to provide real time synchronization between tool and GitHub. This project provided me extensive
                   hands-on experience with Github's REST API and it's integration on the platform using Github oAuth and tokens.
-                  <span style={{ color: '#f44336', marginLeft: '3px', marginRight: '3px' }}>This is a video of prototype version as this tool was deployed on company's internal portal. On accessing the link, it will re-directed to Login page.</span>
+                  <span style={{ color: '#f44336', marginLeft: '3px', marginRight: '3px' }}>This is a video of prototype version as this tool was deployed on company's internal portal.</span>
                 </span>
                 <hr />
                 <span>
@@ -151,6 +151,37 @@ const Works = () => {
           </div>
         </div>
 
+        {/* Medical Inventory system for boxMd */}
+        <div className="works_img">
+          <img src={work8} alt="" style={{ height: '313px', objectFit: 'contain' }} />
+          <div className="works_data">
+            <div className="works-project-info">
+              <div className="works_title">
+                <h3>Medical Inventory System</h3>
+                <span>
+                  {" "}
+                  This is a layout for Medical Inventory System I created during my leisure time.
+                  This project mainly focused on building resusable components with
+                  custom design, fetching data from REST API using Axios library and Admin dashboard with past medical record of users.
+                  The sample code for this project can be found
+                  <a style={{ textDecoration: 'underline', color: '#f44336' }} href="https://github.com/Elisha18/ReactApp" target="_blank"> on github profile</a>
+                </span>
+                <hr />
+                <span>
+                  Tech-Stack used: JSX, CSS3, Bootstrap3, JavaScript/ES6, ReactJS, Axios.
+                </span>
+              </div>
+              <a
+                href="https://elisha18.github.io/ReactApp/"
+                className="works_link"
+                target="_blank"
+              >
+                <i className="fas fa-external-link-alt"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
         {/* News Feed App */}
         <div className="works_img">
           <img src={work6} alt="" style={{ height: '281px' }} />
@@ -197,37 +228,6 @@ const Works = () => {
                 <hr />
                 <span>
                   Tech-Stack used: JSX, CSS3, Bootstrap3, JavaScript/ES6, ReactJS, NodeJS, ExpressJS, MongoDB.
-                </span>
-              </div>
-              <a
-                href="https://www.screencast.com/t/E5rNjMognXm"
-                className="works_link"
-                target="_blank"
-              >
-                <i className="fas fa-external-link-alt"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-
-        {/* Medical Inventory system for boxMd */}
-        <div className="works_img">
-          <img src={work8} alt="" style={{ height: '313px', objectFit: 'contain' }} />
-          <div className="works_data">
-            <div className="works-project-info">
-              <div className="works_title">
-                <h3>Medical Inventory System</h3>
-                <span>
-                  {" "}
-                  This is a template layout for ERP based Medical Inventory System I created for a comapny named BoxMd.
-                  This project mainly focused on building resusable components with
-                  custom design, fetching data from REST API using Axios library and Admin dashboard with past medical record of users.
-                  The sample code for this project can be found
-                  <a style={{ textDecoration: 'underline', color: '#f44336' }} href="https://github.com/Elisha18/ReactApp" target="_blank"> on github profile</a>
-                </span>
-                <hr />
-                <span>
-                  Tech-Stack used: JSX, CSS3, Bootstrap3, JavaScript/ES6, ReactJS, Axios.
                 </span>
               </div>
               <a
